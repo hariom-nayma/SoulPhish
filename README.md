@@ -13,10 +13,10 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 
 ##### Usage:
 ```
-git clone https://github.com/xHak9x/SocialPhish.git
-cd SocialPhish
-chmod +x socialphish.sh
-./socialphish.sh
+git clone https://github.com/hariom-nayma/SoulPhish.git
+cd SoulPhish
+chmod +x soulphish.sh
+./soulphish.sh
 ```
 
 ###### Donate! 
